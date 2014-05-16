@@ -1,3 +1,7 @@
+/* I am putting this project, based on a couple of tutorials, aside, in order to study another
+ tutorial project... the one by Aleksandrov.
+ */
+
 var express = require('express');
 var path = require('path');
 var favicon = require('static-favicon');
